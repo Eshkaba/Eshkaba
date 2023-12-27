@@ -12,8 +12,7 @@
   
 
 ❓ For cooperation or if you have questions regarding my activities, write to shkabarnia.e@gmail.com  
-  
-
+ 
 <br/>  
 
 ##
