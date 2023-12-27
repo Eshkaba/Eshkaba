@@ -19,7 +19,6 @@
 <br/>  
 
 
-## My Skill Set  
 
 
 ### A few beautiful pictures of skills to attract attention :)  
