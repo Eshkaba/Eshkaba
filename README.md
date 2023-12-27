@@ -1,5 +1,3 @@
-
-
 ### Greeting block ;)  
 #### Hi all! My name is Elena, I develop the client side of applications in React JS, I have experience in developing large applications for corporate software in the B2B segment. I also launch projects on the blockchain at the testnet stage, help test developers’ solutions and do code reviews.  
   
@@ -18,8 +16,7 @@
 
 <br/>  
 
-
-
+##
 
 ### A few beautiful pictures of skills to attract attention :)  
 <div align="center">  
