@@ -14,7 +14,6 @@
 ❓ For cooperation or if you have questions regarding my activities, write to shkabarnia.e@gmail.com  
  
 <br/>  
-
 ##
 
 ### A few beautiful pictures of skills to attract attention :)  
